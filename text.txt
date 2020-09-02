@@ -1,3 +1,0 @@
-hi
-conflict1
-conflict 2
